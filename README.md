@@ -10,7 +10,7 @@ Demonstrate core IAM operational skills in Microsoft Entra ID by performing user
 
 ---
 
-## ✅ What I Implemented
+## ✅ What I Implemented (Special Note: Some operations were no authorized due to licensing. I do not currently pay for a Microsoft business account to perform labs)
 - **Created Entra ID users** (manual creation for a test user)
 - **Bulk created users via CSV import** (standard provisioning workflow)
 - **Created and configured a Microsoft 365 group** and managed membership
@@ -56,13 +56,13 @@ Each major action was verified using **Audit Logs**:
 ## 📸 Screenshot Index
 | # | Action | Evidence File |
 |---|--------|--------------|
-| 1 | User creation (manual) | `03-user-created-billyj.png` |
-| 2 | Bulk user import (CSV) | `02-bulk-import-csv.png` |
-| 3 | Group creation (Project01) | `05-create-group-project01.png` |
-| 4 | Admin role assignment | `01-role-assignment-billy-jean.png` |
-| 5 | Guest user invitation (B2B) | `04-guest-user-invite.png` |
-| 6 | Enable per-user MFA | `06-enable-mfa-billyj.png` |
-| 7 | Audit log verification | `07-audit-logs-verification.png` |
+| 1 | User creation (manual) | `Creating Entra User BillyJ (2-26-26).png` |
+| 2 | Bulk user import (CSV) | `Bulk Importing Users (2-26-26).png` |
+| 3 | Group creation (Project01) | `Creating Project01 Group (2-26-26).png` |
+| 4 | Admin role assignment | `Assigning Role for Billy Jean (2-26-26).png` |
+| 5 | Guest user invitation (B2B) | `Creating External User (2-26-26).png` |
+| 6 | Enable per-user MFA | `Enabling MFA for BillyJ (2-26-26).png` |
+| 7 | Audit log verification | `Reviewing Audit Logs (2-26-26).png` |
 
 ---
 
