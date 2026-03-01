@@ -63,7 +63,7 @@ Each major action was verified using **Audit Logs**:
 | 5 | Guest user invitation (B2B) | `04-guest-user-invite.png` |
 | 6 | Enable per-user MFA | `06-enable-mfa-billyj.png` |
 | 7 | Audit log verification | `07-audit-logs-verification.png` |
-| 8 | MFA Verification | `08-proof-mobile-athenticator.png` |
+| 8 | MFA verification (mobile authenticator) | `08-proof-mobile-athenticator.png` |
 
 ---
 
