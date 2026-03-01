@@ -10,7 +10,7 @@ Demonstrate core IAM operational skills in Microsoft Entra ID by performing user
 
 ---
 
-## ✅ What I Implemented (Special Note: Some operations were no authorized due to licensing. I do not currently pay for a Microsoft business account to perform labs)
+## ✅ What I Implemented (Special Note: Some advanced identity governance features require paid licensing. This lab focuses on core Entra ID IAM operations available in the tenant.)
 - **Created Entra ID users** (manual creation for a test user)
 - **Bulk created users via CSV import** (standard provisioning workflow)
 - **Created and configured a Microsoft 365 group** and managed membership
@@ -93,4 +93,4 @@ Planned upgrades to expand this project:
 
 ## 📫 Contact
 If you'd like to discuss IAM operations, Entra ID, or my AZ-500 progress:
-- LinkedIn: *(add your link here)*
+- LinkedIn: ['Foli Kanyi LinkedIN'](https://www.linkedin.com/in/folikanyi/)
