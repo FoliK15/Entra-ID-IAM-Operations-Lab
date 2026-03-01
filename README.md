@@ -39,7 +39,7 @@ This lab focuses on the operational flow that IAM teams use daily:
 
 ## 📝 Runbook
 A 1-page, repeatable procedure is included:
-- [`runbook/implementation.md`](runbook/implementation.md)
+- [`runbook/implementation.md`](runbook)
 
 ---
 
