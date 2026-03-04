@@ -1,0 +1,14 @@
+Timestamp,Event Type,Severity,Actor,Target,Details,Result
+2026-03-04T20:27:36.105000,user_modified,warning,System (Lifecycle Automation),jimmy .d,"Lifecycle changed from offboarding to terminated. Actions: Account disabled immediately",success
+2026-03-04T20:26:59.338000,member_removed,info,foli.kanyi,jimmy .d,"Removed from group: IT-Helpdesk",success
+2026-03-04T20:26:54.483000,member_removed,info,foli.kanyi,jimmy .d,"Removed from group: DL-Fileshare-Read ",success
+2026-03-04T20:26:28.086000,user_modified,info,System (Lifecycle Automation),jimmy .d,"Lifecycle changed from onboarding to offboarding. Actions: Account disabled (30-day grace period)",success
+2026-03-04T20:21:23,member_added,info,foli.kanyi,Domain Admins,"Added john.doe",success
+2026-03-04T20:19:47.942000,access_granted,info,foli.kanyi,jimmy .d,"Approved group_add for DL-Fileshare-Read ",success
+2026-03-04T20:07:40.924000,member_added,info,foli.kanyi,DL-Fileshare-Read ,"Added robert.d",success
+2026-03-04T19:57:54.758000,member_added,info,foli.kanyi,IT-Helpdesk,"Added john.doe",success
+2026-03-04T19:57:50.779000,member_removed,info,foli.kanyi,IT-Helpdesk,"Removed bob.wilson",success
+2026-03-04T19:57:08.913000,member_added,info,foli.kanyi,IT-Helpdesk,"Added bob.wilson",success
+2026-03-04T19:57:04.889000,member_added,info,foli.kanyi,IT-Helpdesk,"Added jimmy .d",success
+2026-03-01T20:43:00.008000,password_reset,info,foli.kanyi,jimmy .d,"Password reset. Must change: true",success
+2026-03-01T20:34:11.958000,account_locked,info,foli.kanyi,jimmy .d,"Account manually locked by administrator",success
