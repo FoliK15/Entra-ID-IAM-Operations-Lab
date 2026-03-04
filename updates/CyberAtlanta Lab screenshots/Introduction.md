@@ -38,7 +38,7 @@ This section documents my progress in the **Cyber Atlanta IAM Training Lab**, a 
 ---
 
 ## Evidence (Audit / Activity Data)
-Additional evidence is stored in: **[`evidence/`](./evidence)**
+
 
 - Audit log export (CSV): **[audit-logs-2026-03-04.csv](./evidence/audit-logs-2026-03-04.csv)**
 
