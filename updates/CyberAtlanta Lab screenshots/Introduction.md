@@ -21,7 +21,7 @@ This section documents my progress in the **Cyber Atlanta IAM Training Lab**, a 
 ---
 
 ## Evidence Index (Screenshots)
-All screenshots are stored in: **[`screenshots/`](./screenshots)**
+
 
 | Area | What it shows | Link |
 |------|---------------|------|
