@@ -25,7 +25,7 @@ This section documents my progress in the **Cyber Atlanta IAM Training Lab**, a 
 
 | Area | What it shows | Link |
 |------|---------------|------|
-| Dashboard | Overall lab environment status & navigation | [01-dashboard.png](./CyberAtlanta%20Lab%20screenshots/01-dashboard.png) |
+| Dashboard | Overall lab environment status & navigation | [01-dashboard.png](./01-dashboard.png) |
 | Progress | Labs completed / time invested / level | [02-completed-labs.png](./CyberAtlanta%20Lab%20screenshots/02-completed-labs.png) |
 | Identity Fundamentals | Core helpdesk/IAM tasks (create user, reset/unlock, tickets) | [03-identity-fundamentals.png](./CyberAtlanta%20Lab%20screenshots/03-identity-fundamentals.png) |
 | Group & Access Mgmt | Security groups, access requests, approvals, privileged groups | [04-group-access-management.png](./CyberAtlanta%20Lab%20screenshots/04-group-access-management.png) |
