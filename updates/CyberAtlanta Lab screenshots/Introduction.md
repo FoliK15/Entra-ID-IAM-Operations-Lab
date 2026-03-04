@@ -25,15 +25,15 @@ This section documents my progress in the **Cyber Atlanta IAM Training Lab**, a 
 
 | Area | What it shows | Link |
 |------|---------------|------|
-| Dashboard | Overall lab environment status & navigation | [01-dashboard.png](./screenshots/01-dashboard.png) |
-| Progress | Labs completed / time invested / level | [02-completed-labs.png](./screenshots/02-completed-labs.png) |
-| Identity Fundamentals | Core helpdesk/IAM tasks (create user, reset/unlock, tickets) | [03-identity-fundamentals.png](./screenshots/03-identity-fundamentals.png) |
-| Group & Access Mgmt | Security groups, access requests, approvals, privileged groups | [04-group-access-management.png](./screenshots/04-group-access-management.png) |
-| Security & Governance | Password policies, audit analysis, offboarding, privileged group mgmt | [05-security-governance.png](./screenshots/05-security-governance.png) |
-| Architecture & Automation | OU design + automation job setup & monitoring concepts | [06-architecture-automation.png](./screenshots/06-architecture-automation.png) |
-| Ticket Resolution | Example of request fulfillment workflow | [07-ticket-resolution.png](./screenshots/07-ticket-resolution.png) |
-| Security Alerts | Reviewing resolved alerts and incident-style workflow | [08-security-alerts.png](./screenshots/08-security-alerts.png) |
-| Users View | User/account inventory view (roles/groups/status) | [09-users.png](./screenshots/09-users.png) |
+| Dashboard | Overall lab environment status & navigation | [01-dashboard.png](./CyberAtlanta%20Lab%20screenshots/01-dashboard.png) |
+| Progress | Labs completed / time invested / level | [02-completed-labs.png](./CyberAtlanta%20Lab%20screenshots/02-completed-labs.png) |
+| Identity Fundamentals | Core helpdesk/IAM tasks (create user, reset/unlock, tickets) | [03-identity-fundamentals.png](./CyberAtlanta%20Lab%20screenshots/03-identity-fundamentals.png) |
+| Group & Access Mgmt | Security groups, access requests, approvals, privileged groups | [04-group-access-management.png](./CyberAtlanta%20Lab%20screenshots/04-group-access-management.png) |
+| Security & Governance | Password policies, audit analysis, offboarding, privileged group mgmt | [05-security-governance.png](./CyberAtlanta%20Lab%20screenshots/05-security-governance.png) |
+| Architecture & Automation | OU design + automation job setup & monitoring concepts | [06-architecture-automation.png](./CyberAtlanta%20Lab%20screenshots/06-architecture-automation.png) |
+| Ticket Resolution | Example of request fulfillment workflow | [07-ticket-resolution.png](./CyberAtlanta%20Lab%20screenshots/07-ticket-resolution.png) |
+| Security Alerts | Reviewing resolved alerts and incident-style workflow | [08-security-alerts.png](./CyberAtlanta%20Lab%20screenshots/08-security-alerts.png) |
+| Users View | User/account inventory view (roles/groups/status) | [09-users.png](./CyberAtlanta%20Lab%20screenshots/09-users.png) |
 
 ---
 
