@@ -90,6 +90,10 @@ Planned upgrades to expand this project:
 - Sign-in log analysis for authentication troubleshooting
 
 ---
+## UPDATES 
+-Check HERE for new addtions to my project 
+
+---
 
 ## 📫 Contact
 If you'd like to discuss IAM operations, Entra ID, or my AZ-500 progress:
