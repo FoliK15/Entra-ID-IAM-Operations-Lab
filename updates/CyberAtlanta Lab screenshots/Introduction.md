@@ -26,21 +26,21 @@ This section documents my progress in the **Cyber Atlanta IAM Training Lab**, a 
 | Area | What it shows | Link |
 |------|---------------|------|
 | Dashboard | Overall lab environment status & navigation | [01-dashboard.png](./01-dashboard.png) |
-| Progress | Labs completed / time invested / level | [02-completed-labs.png](./CyberAtlanta%20Lab%20screenshots/02-completed-labs.png) |
-| Identity Fundamentals | Core helpdesk/IAM tasks (create user, reset/unlock, tickets) | [03-identity-fundamentals.png](./CyberAtlanta%20Lab%20screenshots/03-identity-fundamentals.png) |
-| Group & Access Mgmt | Security groups, access requests, approvals, privileged groups | [04-group-access-management.png](./CyberAtlanta%20Lab%20screenshots/04-group-access-management.png) |
-| Security & Governance | Password policies, audit analysis, offboarding, privileged group mgmt | [05-security-governance.png](./CyberAtlanta%20Lab%20screenshots/05-security-governance.png) |
-| Architecture & Automation | OU design + automation job setup & monitoring concepts | [06-architecture-automation.png](./CyberAtlanta%20Lab%20screenshots/06-architecture-automation.png) |
-| Ticket Resolution | Example of request fulfillment workflow | [07-ticket-resolution.png](./CyberAtlanta%20Lab%20screenshots/07-ticket-resolution.png) |
-| Security Alerts | Reviewing resolved alerts and incident-style workflow | [08-security-alerts.png](./CyberAtlanta%20Lab%20screenshots/08-security-alerts.png) |
-| Users View | User/account inventory view (roles/groups/status) | [09-users.png](./CyberAtlanta%20Lab%20screenshots/09-users.png) |
+| Progress | Labs completed / time invested / level | [02-completed-labs.png](./02-completed-labs.png) |
+| Identity Fundamentals | Core helpdesk/IAM tasks (create user, reset/unlock, tickets) | [03-identity-fundamentals.png](./03-identity-fundamentals.png) |
+| Group & Access Mgmt | Security groups, access requests, approvals, privileged groups | [04-group-access-management.png](./04-group-access-management.png) |
+| Security & Governance | Password policies, audit analysis, offboarding, privileged group mgmt | [05-security-governance.png](./05-security-governance.png) |
+| Architecture & Automation | OU design + automation job setup & monitoring concepts | [06-architecture-automation.png](./06-architecture-automation.png) |
+| Ticket Resolution | Example of request fulfillment workflow | [07-ticket-resolution.png](./07-ticket-resolution.png) |
+| Security Alerts | Reviewing resolved alerts and incident-style workflow | [08-security-alerts.png](./08-security-alerts.png) |
+| Users View | User/account inventory view (roles/groups/status) | [09-users.png](./09-users.png) |
 
 ---
 
 ## Evidence (Audit / Activity Data)
 
 
-- Audit log export (CSV): **[audit-logs-2026-03-04.csv](./evidence/audit-logs-2026-03-04.csv)**
+- Audit log export (CSV): **[audit-logs-2026-03-04.csv](./audit-logs-2026-03-04.csv)**
 
 ---
 
