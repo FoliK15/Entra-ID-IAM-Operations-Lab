@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 Demonstrate core IAM operational skills in Microsoft Entra ID by performing user lifecycle tasks, access/group management, role assignment for controlled testing, guest collaboration onboarding, and MFA enablement — with verification evidence captured through audit logging.
 
 ---
@@ -21,7 +21,7 @@ Demonstrate core IAM operational skills in Microsoft Entra ID by performing user
 
 ---
 
-## 🧰 Tools & Platform
+## Tools & Platform
 - Microsoft Entra admin center (Entra ID / Azure AD)
 - Users, Groups, Assigned Roles
 - Per-user MFA
@@ -29,7 +29,7 @@ Demonstrate core IAM operational skills in Microsoft Entra ID by performing user
 
 ---
 
-## 🏗️ Architecture (Logical)
+## Architecture (Logical)
 **Admin Actions → Entra ID Objects (Users/Groups/Roles/Guest) → Verification in Audit Logs**
 
 This lab focuses on the operational flow that IAM teams use daily:
@@ -37,7 +37,7 @@ This lab focuses on the operational flow that IAM teams use daily:
 
 ---
 
-## 📝 Runbook
+## Runbook
 A 1-page, repeatable procedure is included:
 - [`runbook/implementation.md`](runbook.md)
 
@@ -53,7 +53,7 @@ Each major action was verified using **Audit Logs**:
 
 ---
 
-## 📸 Screenshot Index
+## Screenshot Index
 | # | Action | Evidence File |
 |---|--------|--------------|
 | 1 | User creation (manual) | `03-user-created-billyj.png` |
@@ -67,7 +67,7 @@ Each major action was verified using **Audit Logs**:
 
 ---
 
-## 🧠 Key IAM Takeaways
+## Key IAM Takeaways
 - **Evidence matters:** Audit logs are essential for validating IAM changes and supporting audits.
 - **Bulk provisioning is powerful** but requires strict CSV formatting and validation.
 - **Least privilege is the goal:** Role assignment should be minimal, approved, and time-bound in real environments.
@@ -75,14 +75,14 @@ Each major action was verified using **Audit Logs**:
 
 ---
 
-## 🔐 Security Notes (Portfolio Safe)
+## Security Notes (Portfolio Safe)
 Before uploading evidence to a public repository:
 - Blur/crop tenant IDs, object IDs, and personal emails
 - Avoid exposing secrets, URLs with tenant GUIDs, or internal identifiers
 
 ---
 
-## 🚀 Next Enhancements
+## Next Enhancements
 Planned upgrades to expand this project:
 - Conditional Access policy enforcement for MFA (recommended method in production)
 - Group-based access assignment model (least-privilege patterns)
