@@ -5,12 +5,12 @@
 
 ---
 
-##  Objective
+## Objective
 Demonstrate core IAM operational skills in Microsoft Entra ID by performing user lifecycle tasks, access/group management, role assignment for controlled testing, guest collaboration onboarding, and MFA enablement — with verification evidence captured through audit logging.
 
 ---
 
-## ✅ What I Implemented (Special Note: Some advanced identity governance features require paid licensing. This lab focuses on core Entra ID IAM operations available in the tenant.)
+## What I Implemented (Special Note: Some advanced identity governance features require paid licensing. This lab focuses on core Entra ID IAM operations available in the tenant.)
 - **Created Entra ID users** (manual creation for a test user)
 - **Bulk created users via CSV import** (standard provisioning workflow)
 - **Created and configured a Microsoft 365 group** and managed membership
@@ -43,7 +43,7 @@ A 1-page, repeatable procedure is included:
 
 ---
 
-## 🔍 Verification & Evidence
+## Verification & Evidence
 Each major action was verified using **Audit Logs**:
 - Administrative changes show **Status: Success**
 - Targets and actors match expected user/group actions
