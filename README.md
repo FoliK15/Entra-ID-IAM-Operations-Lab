@@ -97,4 +97,4 @@ Check [HERE](updates) for new addtions to my project
 
 ## 📫 Contact
 If you'd like to discuss IAM operations, Entra ID, or my AZ-500 progress:
-- LinkedIn: ['Foli Kanyi LinkedIN'](https://www.linkedin.com/in/folikanyi/)
+- LinkedIn: [Foli Kanyi LinkedIN](https://www.linkedin.com/in/folikanyi/)
