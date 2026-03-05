@@ -91,7 +91,7 @@ Planned upgrades to expand this project:
 
 ---
 ## UPDATES 
-Check HERE for new addtions to my project 
+Check ['HERE'](updates) for new addtions to my project 
 
 ---
 
